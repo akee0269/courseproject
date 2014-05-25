@@ -7,7 +7,7 @@ The data summarises averages for each of these features by subjects and activity
 * In all there are 35 combinations of subject and activity
 * Total 66 variables summarised
 
-Features:
+Features (1 variable for each dimention X, Y & Z):
 * tBodyAcc-XYZ
 * tGravityAcc-XYZ
 * tBodyAccJerk-XYZ
@@ -25,7 +25,6 @@ Features:
 * fBodyAccJerkMag
 * fBodyGyroMag
 * fBodyGyroJerkMag
-(1 variable for each dimention X, Y & Z)
 
 Activities:
 * Walking
